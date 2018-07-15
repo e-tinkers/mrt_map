@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Singapore MRT Interactive Map</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+
+    {% include 'stations_sg.svg' %}
+
+    <div id="modal" class="modal">
+      <div class="modal-content">
+        <p><strong>Click</strong> to select stations</p>
+        <p><strong>Doubleclick</strong> to reset selection</p>
+      </div>
+    </div>
+
+    <script src={{ url_for('static', filename='front-end.js') }}></script>
+  </body>
+</html>
