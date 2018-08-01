@@ -2,7 +2,7 @@
 (function() {
 
   // helper function to reset the color of each station
-  let reset = function(e) {
+  function reset(e) {
     for (let i = 0; i < stations.length; i++) {
       document.getElementById(stations[i]).setAttribute('fill', "#FFFFFF");
     }
@@ -20,7 +20,7 @@
   }
 
   // helper function to mark each stations on the shortest path with bigger Cyan circle
-  let markShortestPath = function(path) {
+  function markShortestPath(path) {
     for (let i = 0; i < path.length; i++) {
       let station = document.getElementById(path[i]);
       let radius = parseFloat(station.getAttribute('r')) + 2;
@@ -42,6 +42,29 @@
     }
   }
 
+  // Calculate shortest path - JavaScript version
+  function calShortestPath(graph, start, end, path=[]) {
+    path = path.concat(start);
+    if (start == end) {
+      return path;
+    }
+    if (!graph.hasOwnProperty(start)) {
+      return [];
+    }
+    let shortest = [];
+    for (let node of graph[start]) {
+      if (path.indexOf(node) == -1) {
+        let newPath = calShortestPath(graph, node, end, path);
+        if (newPath.length > 0) {
+          if ( shortest.length == 0 | (newPath.length < shortest.length) ) {
+            shortest = newPath;
+          }
+        }
+      }
+    };
+    return shortest;
+  }
+
   // Dismiss Instruction modal after 3 seconds
   let modal = document.getElementById('modal');
   window.setTimeout(function() {
@@ -61,8 +84,15 @@
     else if (stations.length == 1) {
       event.target.setAttribute('fill', "#00FF00");
       stations.push(station);
+
+      // For server side of calculating shortest path
       let url = "/api/v1/?start=" + stations[0] + "&end=" + stations[1];
       getRequest(url);
+
+      // For client side of calculating shortest path
+      //shortestPath = calShortestPath(stationSG, stations[0], stations[1]);
+      //markShortestPath(shortestPath);
+
     }
     event.preventDefault();
   });
