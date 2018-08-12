@@ -12,3 +12,7 @@ Run the python script to create a python internal build-in web server:
      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 Point the browser to `http://127.0.0.1:5000`.
+
+**Live Demonstration**
+
+A live demonstration is hosted at [SMRT Interactive Map](https://www.e-tinkers.com/mrt/).
