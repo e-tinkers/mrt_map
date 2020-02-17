@@ -76,14 +76,13 @@
   let stations = [];
   let links = document.getElementById("stns_icons");
   links.addEventListener('click', function(event) {
-    let station = event.target.id;
     if (stations.length == 0) {
       event.target.setAttribute('fill', "#FF0000");
-      stations.push(station);
+      stations.push(event.target.id);
     }
     else if (stations.length == 1) {
       event.target.setAttribute('fill', "#00FF00");
-      stations.push(station);
+      stations.push(event.target.id);
 
       // For server side of calculating shortest path
       let url = "/api/v1/?start=" + stations[0] + "&end=" + stations[1];
