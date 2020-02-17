@@ -59,6 +59,9 @@
     <g id="dtex" stroke="#005ec4" stroke-dasharray="8, 8">
      <path d="m1286 695v90"/>
     </g>
+    <g id="teex" stroke="#784008">
+     <path d="m496 34 l85 85"/>
+    </g>
     <g id="teex" stroke="#784008" stroke-dasharray="8, 8">
      <path d="m496 34 l147.8 147.8 q14.14 14.14 14.14 34.14 v562 q0 20 14.14 34.14 l87 87 q14.14 14.14 34.14 14.14 h134 q20 0 34.14 -14.14 l99 -99 q14.14 -14.14 28.28 -14.14 h283 q20 0 20 -20 v-52 q0 -20 -20 -20 h-35"/>
     </g>
@@ -75,11 +78,13 @@
     </g>
     <g id="lrt" stroke="#999999">
      <path d="m284.4 225.6h207 q10 0 17.07-7.07 l19.2-19.2 q7.07-7.07 17.07-7.07 h10 q10 0 10 10 v46.6 q0 10-10 10 h-10 q-10 0-17.07-7.07 l-19.2-19.2 q-7.07-7.07-17.07-7.07"/>
-     <path d="m445.5 224.9v-35.2"/>
      <path d="m1081 306 l-7.76-7.76 q-7.07-7.07-7.07-17.07 v-20 q0-10-7.07-17.07 l-19-19 q-7.07-7.07-14.14 0 l-26 26 q-7.07 7.07 0 14.14 l 19 19 q 7.07 7.07 17.07 7.07 h 20 q 10 0 17.07 7.07"/>
      <path d="m1081 306 l 7.76 7.76 q 7.07 7.07 7.07 17.07 v 20 q0 10 7.07 17.07 l 19 19 q 7.07 7.07 14.14 0 l 26-26 q 7.07-7.07 0-14.14 l-19-19 q-7.07-7.07-17.07-7.07 h-20 q-10 0-17.07-7.07"/>
      <path d="m1176 209.5 l-7.76-7.76 q-7.07-7.07-7.07-17.07 v-20 q0-10-7.07-17.07 l-19-19 q-7.07-7.07-14.14 0 l-26 26 q-7.07 7.07 0 14.14 l 19 19 q 7.07 7.07 17.07 7.07 h 20 q 10 0 17.07 7.07"/>
      <path d="m1177 209.5 l 7.76 7.76 q 7.07 7.07 7.07 17.07 v 20 q0 10 7.07 17.07 l 19 19 q 7.07 7.07 14.14 0 l 26-26 q 7.07-7.07 0-14.14 l-19-19 q-7.07-7.07-17.07-7.07 h-20 q-10 0-17.07-7.07"/>
+    </g>
+    <g id="lrt" stroke="#999999" stroke-dasharray="8, 8">
+        <path d="m445.5 224.9v-35.2"/>
     </g>
     <g id="rtslink" stroke="#87cefa" stroke-dasharray="8, 8">
      <path d="m496 34h-60"/>
@@ -124,9 +129,9 @@
         <circle id="ns6" cx="286" cy="226" r="3"/>
         <circle id="ns7" cx="352" cy="67" r="3"/>
         <circle id="ns8" cx="435" cy="67" r="3"/>
-        <circle id="ns9" cx="529" cy="67" r="3"/>
         <circle id="ns10" cx="632" cy="67" r="3"/>
         <circle id="ns11" cx="735" cy="67" r="3"/>
+        <circle id="ns12" cx="786" cy="104" r="3"/>
         <circle id="ns13" cx="786" cy="153" r="3"/>
         <circle id="ns14" cx="786" cy="202" r="3"/>
         <circle id="ns15" cx="786" cy="250" r="3"/>
@@ -201,6 +206,12 @@
         <circle id="dt34" cx="1286" cy="667" r="3"/>
       </g>
     </a>
+    <a xlink:href="#te" fill="#ffffff">
+      <g id="stns_te" stroke="#784008">
+          <circle id="te1" cx="496" cy="34" r="3"/>
+          <circle id="te3" cx="579" cy="117" r="3"/>
+      </g>
+    </a>
     <a xlink:href= "#ints" fill="#ffffff">
       <g id="stns_ints" stroke="#000000" stroke-width="3">
         <circle id="ns24/ne6/cc1" cx="760.2" cy="689" r="5.7"/>
@@ -231,6 +242,7 @@
         <circle id="dt11" cx="720" cy="547" r="5.7"/>
         <circle id="bp6" cx="479" cy="225.5" r="5.7"/>
         <circle id="dt1" cx="479" cy="242" r="5.7"/>
+        <circle id="ns9/te2" cx="529" cy="67" r="5.7"/>
       </g>
     </a>
     <a xlink:href= "#bplrt" fill="#ffffff">
@@ -276,7 +288,6 @@
         <circle id="pe6" cx="1238" cy="230.5" r="2.6"/>
         <circle id="pe7" cx="1214" cy="224" r="2.6"/>
         <circle id="pw1" cx="1161" cy="177" r="2.6"/>
-
         <circle id="pw3" cx="1139" cy="132" r="2.6"/>
         <circle id="pw4" cx="1106" cy="144" r="2.6"/>
         <circle id="pw5" cx="1098.5" cy="173" r="2.6"/>
@@ -287,9 +298,7 @@
   </g>
 
   <g id="stns_not_in_services" fill="#ffffff" stroke-width="2">
-    <g id="stns_ns" stroke="#d42e12">
-      <circle id="ns12" cx="786" cy="104" r="3"/>
-    </g>
+
     <g id="stns_ne" stroke="#9900aa">
       <circle id="ne18" cx="1254" cy="132" r="3"/>
     </g>
@@ -304,8 +313,6 @@
       <circle id="cc32" cx="735" cy="919" r="3"/>
     </g>
     <g id="stns_te" stroke="#784008">
-      <circle id="te1" cx="496" cy="34" r="3"/>
-      <circle id="te3" cx="579" cy="117" r="3"/>
       <circle id="te4" cx="624" cy="161.8" r="3"/>
       <circle id="te5" cx="658" cy="208" r="3"/>
       <circle id="te6" cx="658" cy="247" r="3"/>
@@ -404,10 +411,9 @@
      <text id="lbns5" x="292" y="125" font-size="12">Yew Tee</text>
      <text id="lbns7" x="335.5" y="60" font-size="12">Kranji</text>
      <text id="lbns8" x="410" y="60" font-size="12">Marsiling</text>
-     <text id="lbns9" x="526" y="60" font-size="12">Woodlands</text>
      <text id="lbns10" x="606" y="60" font-size="12">Admiralty</text>
      <text id="lbns11" x="699" y="60" font-size="12">Sembawang</text>
-     <text id="lbns12" x="731" y="108" font-size="12" fill="#aaaaaa">Canberra</text>
+     <text id="lbns12" x="731" y="108" font-size="12">Canberra</text>
      <text id="lbns13" x="743" y="156" font-size="12">Yishun</text>
      <text id="lbns14" x="746" y="205" font-size="12">Khatib</text>
      <text id="lbns15a" x="763" y="246" font-size="12">Yio</text>
@@ -449,7 +455,6 @@
      <text id="lbcc14a" x="855" y="398" font-size="12">Lorong</text>
      <text id="lbcc14b" x="855" y="410" font-size="12">Chuan</text>
      <text id="lbcc16" x="690" y="383" font-size="12">Marymount</text>
-     <text id="lbcc17" x="605" y="399" font-size="12">Caldecott</text>
      <text id="lbcc20" x="522" y="520" font-size="12">Farrer Road</text>
      <text id="lbcc21a" x="504" y="556" font-size="12">Holland</text>
      <text id="lbcc21b" x="504" y="568" font-size="12">Village</text>
@@ -518,11 +523,14 @@
      <text id="lbdt37a" x="1269" y="802" font-size="12">Sungei</text>
      <text id="lbdt37b" x="1271" y="814" font-size="12">Bedok</text>
     </g>
-    <g id="lbteex" fill="#aaaaaa">
+    <g id="lbteex" fill="#000000">
      <text id="lbte1a" x="506" y="29" font-size="12">Woodlands</text>
      <text id="lbte1b" x="506" y="41" font-size="12">North</text>
      <text id="lbte3a" x="586" y="109" font-size="12">Woodlands</text>
      <text id="lbte3b" x="586" y="121" font-size="12">South</text>
+
+    </g>
+    <g id="lbteex" fill="#aaaaaa">
      <text id="lbte4" x="632" y="163" font-size="12">Springleaf</text>
      <text id="lbte5" x="665" y="212" font-size="12">Lentor</text>
      <text id="lbte6" x="665" y="250" font-size="12">Mayflower</text>
@@ -575,8 +583,7 @@
      <text id="lbjs12a" x="202" y="631" font-size="12">Jurong Pier</text>
      <text id="lbje1a" x="175" y="380" font-size="12">Tengah</text>
      <text id="lbje1b" x="175" y="392" font-size="12">Plantation</text>
-     <text id="lbje2a" x="198" y="411" font-size="12"></text>
-     <text id="lbje2b" x="192" y="413" font-size="12">Tengah Park</text>
+     <text id="lbje2" x="192" y="413" font-size="12">Tengah Park</text>
      <text id="lbje3a" x="221" y="431" font-size="12">Bukit Batok</text>
      <text id="lbje3b" x="221" y="443" font-size="12">West</text>
      <text id="lbje4a" x="253" y="462" font-size="12">Toh</text>
@@ -606,6 +613,7 @@
      <text id="lbcc13" x="933" y="468" font-size="12">Serangoon</text>
      <text id="lbcc15" x="793" y="390" font-size="12">Bishan</text>
      <text id="lbcc19a" x="491" y="470" font-size="12">Botanic</text>
+     <text id="lbcc17" x="598" y="397" font-size="12">Caldecott</text>
      <text id="lbcc19b" x="486" y="482" font-size="12">Gardens</text>
      <text id="lbcc22" x="489" y="600" font-size="12">Buona Vista</text>
      <text id="lbcc29" x="495" y="875" font-size="12">HarbourFront</text>
@@ -622,6 +630,7 @@
      <text id="lbew24b" x="292" y="508" font-size="12">East</text>
      <text id="lbns4a" x="247" y="213" font-size="12">Choa</text>
      <text id="lbns4b" x="221" y="225" font-size="12">Chu Kang</text>
+     <text id="lbns9" x="530" y="60" font-size="12">Woodlands</text>
      <text id="lbns21" x="714" y="536" font-size="12">Newton</text>
      <text id="lbne4" x="702" y="758" font-size="12">Chinatown</text>
      <text id="lbne7a" x="739" y="605" font-size="12">Little</text>
@@ -639,8 +648,8 @@
      <text id="lbbp4a" x="380" y="211" font-size="10">Teck</text>
      <text id="lbbp4b" x="378" y="221" font-size="10">Whye</text>
      <text id="lbbp5" x="407" y="239" font-size="10">Phoenix</text>
-     <text id="lbbp14a" x="425" y="176" font-size="10">Ten Mile</text>
-     <text id="lbbp14b" x="425" y="186" font-size="10">Junction</text>
+     <text id="lbbp14a" x="425" y="176" font-size="10" fill="#aaaaaa">Ten Mile</text>
+     <text id="lbbp14b" x="425" y="186" font-size="10" fill="#aaaaaa">Junction</text>
      <text id="lbbp7" x="525" y="242" font-size="10">Petir</text>
      <text id="lbbp8" x="525" y="272" font-size="10">Pending</text>
      <text id="lbbp9" x="569" y="251" font-size="10">Bangkit</text>
