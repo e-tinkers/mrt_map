@@ -251,7 +251,6 @@
         <circle id="bp3" cx="356" cy="226" r="2.6"/>
         <circle id="bp4" cx="391" cy="226" r="2.6"/>
         <circle id="bp5" cx="426" cy="226" r="2.6"/>
-        <circle id="bp14" cx="445.5" cy="192.5" r="2.6"/>
         <circle id="bp7" cx="521" cy="245" r="2.6"/>
         <circle id="bp8" cx="546" cy="259" r="2.6"/>
         <circle id="bp9" cx="565" cy="248" r="2.6"/>
@@ -364,6 +363,9 @@
     </g>
     <g id="stns_pglrt" stroke="#999999" stroke-width="1.7">
       <circle id="pw2" cx="1156" cy="150" r="2.6"/>
+    </g>
+    <g id="stns_bplrt" stroke="#999999" stroke-width="1.7">
+        <circle id="bp14" cx="445.5" cy="192.5" r="2.6"/>
     </g>
   </g>
   <g id="stns_labels" font-family="Arial" line-height="100%">
