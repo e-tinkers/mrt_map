@@ -11,7 +11,7 @@ def find_path(graph, start, end, path=[]):
     path = path + [start]
     if start == end:
         return path
-    if start not in graph.keys():
+    if start not in list(graph.keys()):
         return None
     for node in graph[start]:
         if node not in path:
@@ -25,7 +25,7 @@ def all_paths(graph, start, end, path=[]):
     path = path + [start]
     if start == end:
         return [path]
-    if start not in graph.keys():
+    if start not in list(graph.keys()):
         return []
     paths = []
     for node in graph[start]:
@@ -40,7 +40,7 @@ def shortest_path(graph, start, end, path=[]):
     path = path + [start]
     if start == end:
         return path
-    if start not in graph.keys():
+    if start not in list(graph.keys()):
         return None
     shortest = None
     for node in graph[start]:
