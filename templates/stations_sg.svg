@@ -60,7 +60,7 @@
      <path d="m1286 695v90"/>
     </g>
     <g id="teex" stroke="#784008">
-     <path d="m496 34 l85 85"/>
+     <path d="m496 34 l147.8 147.8 q14.14 14.14 14.14 34.14 v190"/>
     </g>
     <g id="teex" stroke="#784008" stroke-dasharray="8, 8">
      <path d="m496 34 l147.8 147.8 q14.14 14.14 14.14 34.14 v562 q0 20 14.14 34.14 l87 87 q14.14 14.14 34.14 14.14 h134 q20 0 34.14 -14.14 l99 -99 q14.14 -14.14 28.28 -14.14 h283 q20 0 20 -20 v-52 q0 -20 -20 -20 h-35"/>
@@ -94,204 +94,209 @@
   <g id="stns_icons" fill="#ffffff" stroke-width="2">
     <a xlink:href= "#ew" fill="#ffffff">
       <g id="stns_ew" stroke="#009645">
-        <circle id="cg2" cx="1334" cy="694" r="3"/>
-        <circle id="ew1" cx="1283" cy="524.5" r="3"/>
-        <circle id="ew3" cx="1245" cy="634" r="3"/>
-        <circle id="ew5" cx="1186" cy="659" r="3"/>
-        <circle id="ew6" cx="1126" cy="659" r="3"/>
-        <circle id="ew7" cx="1066" cy="659" r="3"/>
-        <circle id="ew9" cx="974" cy="660" r="3"/>
-        <circle id="ew10" cx="950.5" cy="675" r="3"/>
-        <circle id="ew11" cx="926" cy="699" r="3"/>
-        <circle id="ew15" cx="698.5" cy="856" r="3"/>
-        <circle id="ew17" cx="630" cy="748" r="3"/>
-        <circle id="ew18" cx="595.5" cy="714" r="3"/>
-        <circle id="ew19" cx="554.7" cy="673" r="3"/>
-        <circle id="ew20" cx="519" cy="637" r="3"/>
-        <circle id="ew22" cx="451" cy="570" r="3"/>
-        <circle id="ew23" cx="405" cy="524" r="3"/>
-        <circle id="ew25" cx="247" cy="514" r="3"/>
-        <circle id="ew26" cx="202" cy="514" r="3"/>
-        <circle id="ew27" cx="155" cy="514" r="3"/>
-        <circle id="ew28" cx="75" cy="540" r="3"/>
-        <circle id="ew29" cx="75" cy="568" r="3"/>
-        <circle id="ew30" cx="75" cy="596" r="3"/>
-        <circle id="ew31" cx="75" cy="624" r="3"/>
-        <circle id="ew32" cx="75" cy="652" r="3"/>
-        <circle id="ew33" cx="75" cy="680" r="3"/>
+        <circle id="cg2" data-value="65" cx="1334" cy="694" r="3"/>
+        <circle id="ew1" data-value="42" cx="1283" cy="524.5" r="3"/>
+        <circle id="ew3" data-value="40" cx="1245" cy="634" r="3"/>
+        <circle id="ew5" data-value="38" cx="1186" cy="659" r="3"/>
+        <circle id="ew6" data-value="37" cx="1126" cy="659" r="3"/>
+        <circle id="ew7" data-value="36" cx="1066" cy="659" r="3"/>
+        <circle id="ew9" data-value="34" cx="974" cy="660" r="3"/>
+        <circle id="ew10" data-value="33" cx="950.5" cy="675" r="3"/>
+        <circle id="ew11" data-value="32" cx="926" cy="699" r="3"/>
+        <circle id="ew15" data-value="14" cx="698.5" cy="856" r="3"/>
+        <circle id="ew17" data-value="16" cx="630" cy="748" r="3"/>
+        <circle id="ew18" data-value="17" cx="595.5" cy="714" r="3"/>
+        <circle id="ew19" data-value="18" cx="554.7" cy="673" r="3"/>
+        <circle id="ew20" data-value="19" cx="519" cy="637" r="3"/>
+        <circle id="ew22" data-value="" cx="451" cy="570" r="3"/>
+        <circle id="ew23" data-value="21" cx="405" cy="524" r="3"/>
+        <circle id="ew25" data-value="25" cx="247" cy="514" r="3"/>
+        <circle id="ew26" data-value="26" cx="202" cy="514" r="3"/>
+        <circle id="ew27" data-value="27" cx="155" cy="514" r="3"/>
+        <circle id="ew28" data-value="66" cx="75" cy="540" r="3"/>
+        <circle id="ew29" data-value="67" cx="75" cy="568" r="3"/>
+        <circle id="ew30" data-value="69" cx="75" cy="596" r="3"/>
+        <circle id="ew31" data-value="70" cx="75" cy="624" r="3"/>
+        <circle id="ew32" data-value="71" cx="75" cy="652" r="3"/>
+        <circle id="ew33" data-value="72" cx="75" cy="680" r="3"/>
       </g>
     </a>
     <a xlink:href= "#ns" fill="#ffffff">
       <g id="stns_ns" stroke="#d42e12">
-        <circle id="ns2" cx="286" cy="413" r="3"/>
-        <circle id="ns3" cx="286" cy="321" r="3"/>
-        <circle id="ns5" cx="286" cy="123" r="3"/>
-        <circle id="ns6" cx="286" cy="226" r="3"/>
-        <circle id="ns7" cx="352" cy="67" r="3"/>
-        <circle id="ns8" cx="435" cy="67" r="3"/>
-        <circle id="ns10" cx="632" cy="67" r="3"/>
-        <circle id="ns11" cx="735" cy="67" r="3"/>
-        <circle id="ns12" cx="786" cy="104" r="3"/>
-        <circle id="ns13" cx="786" cy="153" r="3"/>
-        <circle id="ns14" cx="786" cy="202" r="3"/>
-        <circle id="ns15" cx="786" cy="250" r="3"/>
-        <circle id="ns16" cx="786" cy="306" r="3"/>
-        <circle id="ns18" cx="786" cy="428" r="3"/>
-        <circle id="ns19" cx="770" cy="467" r="3"/>
-        <circle id="ns20" cx="739" cy="498" r="3"/>
-        <circle id="ns22" cx="660" cy="586" r="3"/>
-        <circle id="ns23" cx="702" cy="632" r="3"/>
-        <circle id="ns28" cx="833" cy="955" r="3"/>
+        <circle id="ns2" data-value="28" cx="286" cy="413" r="3"/>
+        <circle id="ns3" data-value="29" cx="286" cy="321" r="3"/>
+        <circle id="ns5" data-value="48" cx="286" cy="123" r="3"/>
+        <circle id="ns6" data-value="" cx="286" cy="226" r="3"/>
+        <circle id="ns7" data-value="47" cx="352" cy="67" r="3"/>
+        <circle id="ns8" data-value="46" cx="435" cy="67" r="3"/>
+        <circle id="ns10" data-value="44" cx="632" cy="67" r="3"/>
+        <circle id="ns11" data-value="43" cx="735" cy="67" r="3"/>
+        <circle id="ns12" data-value="72" cx="786" cy="104" r="3"/>
+        <circle id="ns13" data-value="22" cx="786" cy="153" r="3"/>
+        <circle id="ns14" data-value="23" cx="786" cy="202" r="3"/>
+        <circle id="ns15" data-value="1" cx="786" cy="250" r="3"/>
+        <circle id="ns16" data-value="2" cx="786" cy="306" r="3"/>
+        <circle id="ns18" data-value="4" cx="786" cy="428" r="3"/>
+        <circle id="ns19" data-value="5" cx="770" cy="467" r="3"/>
+        <circle id="ns20" data-value="6" cx="739" cy="498" r="3"/>
+        <circle id="ns22" data-value="8" cx="660" cy="586" r="3"/>
+        <circle id="ns23" data-value="9" cx="702" cy="632" r="3"/>
+        <circle id="ns28" data-value="68" cx="833" cy="955" r="3"/>
       </g>
     </a>
     <a xlink:href= "#ne" fill="#ffffff">
       <g id="stns_ne" stroke="#9900aa">
-        <circle id="ne5" cx="723.5" cy="724.5" r="3"/>
-        <circle id="ne8" cx="807.5" cy="578.4" r="3"/>
-        <circle id="ne9" cx="834" cy="552" r="3"/>
-        <circle id="ne10" cx="861" cy="525" r="3"/>
-        <circle id="ne11" cx="888" cy="498" r="3"/>
-        <circle id="ne13" cx="956" cy="430" r="3"/>
-        <circle id="ne14" cx="983" cy="403.5" r="3"/>
-        <circle id="ne15" cx="1018" cy="368" r="3"/>
+        <circle id="ne5" data-value="113" cx="723.5" cy="724.5" r="3"/>
+        <circle id="ne8" data-value="110" cx="807.5" cy="578.4" r="3"/>
+        <circle id="ne9" data-value="109" cx="834" cy="552" r="3"/>
+        <circle id="ne10" data-value="108" cx="861" cy="525" r="3"/>
+        <circle id="ne11" data-value="107" cx="888" cy="498" r="3"/>
+        <circle id="ne13" data-value="105" cx="956" cy="430" r="3"/>
+        <circle id="ne14" data-value="104" cx="983" cy="403.5" r="3"/>
+        <circle id="ne15" data-value="103" cx="1018" cy="368" r="3"/>
       </g>
     </a>
     <a xlink:href= "#cc" fill="#ffffff">
       <g id="stns_cc" stroke="#fa9e0d">
-        <circle id="cc2" cx="824" cy="739" r="3"/>
-        <circle id="cc3" cx="880" cy="795" r="3"/>
-        <circle id="cc5" cx="970" cy="786" r="3"/>
-        <circle id="cc6" cx="985" cy="754.5" r="3"/>
-        <circle id="cc7" cx="996" cy="720.5" r="3"/>
-        <circle id="cc8" cx="1003" cy="687" r="3"/>
-        <circle id="cc11" cx="984.5" cy="552" r="3"/>
-        <circle id="cc12" cx="964" cy="514" r="3"/>
-        <circle id="cc14" cx="854" cy="416" r="3"/>
-        <circle id="cc16" cx="721" cy="390.8" r="3"/>
-        <circle id="cc17" cx="658" cy="402.8" r="3"/>
-        <circle id="cc20" cx="515.5" cy="514" r="3"/>
-        <circle id="cc21" cx="497" cy="549" r="3"/>
-        <circle id="cc23" cx="475.7" cy="637" r="3"/>
-        <circle id="cc24" cx="476" cy="674" r="3"/>
-        <circle id="cc25" cx="481" cy="709" r="3"/>
-        <circle id="cc26" cx="493.5" cy="750" r="3"/>
-        <circle id="cc27" cx="513.8" cy="792" r="3"/>
-        <circle id="cc28" cx="540" cy="827.5" r="3"/>
+        <circle id="cc2" data-value="215" cx="824" cy="739" r="3"/>
+        <circle id="cc3" data-value="214" cx="880" cy="795" r="3"/>
+        <circle id="cc5" data-value="212" cx="970" cy="786" r="3"/>
+        <circle id="cc6" data-value="211" cx="985" cy="754.5" r="3"/>
+        <circle id="cc7" data-value="210" cx="996" cy="720.5" r="3"/>
+        <circle id="cc8" data-value="209" cx="1003" cy="687" r="3"/>
+        <circle id="cc11" data-value="206" cx="984.5" cy="552" r="3"/>
+        <circle id="cc12" data-value="201" cx="964" cy="514" r="3"/>
+        <circle id="cc14" data-value="203" cx="854" cy="416" r="3"/>
+        <circle id="cc16" data-value="205" cx="721" cy="390.8" r="3"/>
+        <circle id="cc20" data-value="218" cx="515.5" cy="514" r="3"/>
+        <circle id="cc21" data-value="219" cx="497" cy="549" r="3"/>
+        <circle id="cc23" data-value="221" cx="475.7" cy="637" r="3"/>
+        <circle id="cc24" data-value="222" cx="476" cy="674" r="3"/>
+        <circle id="cc25" data-value="223" cx="481" cy="709" r="3"/>
+        <circle id="cc26" data-value="224" cx="493.5" cy="750" r="3"/>
+        <circle id="cc27" data-value="225" cx="513.8" cy="792" r="3"/>
+        <circle id="cc28" data-value="226" cx="540" cy="827.5" r="3"/>
       </g>
     </a>
     <a xlink:href= "#dt" fill="#ffffff">
       <g id="stns_dt" stroke="#005ec4">
-        <circle id="dt2" cx="479" cy="268" r="3"/>
-        <circle id="dt3" cx="479" cy="309" r="3"/>
-        <circle id="dt5" cx="479" cy="353" r="3"/>
-        <circle id="dt6" cx="485" cy="406" r="3"/>
-        <circle id="dt7" cx="502" cy="425" r="3"/>
-        <circle id="dt8" cx="524" cy="447.5" r="3"/>
-        <circle id="dt10" cx="658" cy="486" r="3"/>
-        <circle id="dt13" cx="818" cy="645" r="3"/>
-        <circle id="dt17" cx="804" cy="866" r="3"/>
-        <circle id="dt18" cx="742" cy="803" r="3"/>
-        <circle id="dt20" cx="703.5" cy="727" r="3"/>
-        <circle id="dt21" cx="832" cy="693" r="3"/>
-        <circle id="dt22" cx="865" cy="659.8" r="3"/>
-        <circle id="dt23" cx="896" cy="629" r="3"/>
-        <circle id="dt24" cx="927" cy="602.5" r="3"/>
-        <circle id="dt25" cx="969" cy="600" r="3"/>
-        <circle id="dt27" cx="1046" cy="600" r="3"/>
-        <circle id="dt28" cx="1089" cy="600" r="3"/>
-        <circle id="dt29" cx="1129" cy="600" r="3"/>
-        <circle id="dt30" cx="1172.5" cy="600" r="3"/>
-        <circle id="dt31" cx="1211" cy="600" r="3"/>
-        <circle id="dt33" cx="1286" cy="632" r="3"/>
-        <circle id="dt34" cx="1286" cy="667" r="3"/>
+        <circle id="dt2" data-value="307" cx="479" cy="268" r="3"/>
+        <circle id="dt3" data-value="308" cx="479" cy="309" r="3"/>
+        <circle id="dt5" data-value="309" cx="479" cy="353" r="3"/>
+        <circle id="dt6" data-value="310" cx="485" cy="406" r="3"/>
+        <circle id="dt7" data-value="311" cx="502" cy="425" r="3"/>
+        <circle id="dt8" data-value="312" cx="524" cy="447.5" r="3"/>
+        <circle id="dt10" data-value="314" cx="658" cy="486" r="3"/>
+        <circle id="dt13" data-value="317" cx="818" cy="645" r="3"/>
+        <circle id="dt17" data-value="303" cx="804" cy="866" r="3"/>
+        <circle id="dt18" data-value="304" cx="742" cy="803" r="3"/>
+        <circle id="dt20" data-value="318" cx="703.5" cy="727" r="3"/>
+        <circle id="dt21" data-value="319" cx="832" cy="693" r="3"/>
+        <circle id="dt22" data-value="320" cx="865" cy="659.8" r="3"/>
+        <circle id="dt23" data-value="321" cx="896" cy="629" r="3"/>
+        <circle id="dt24" data-value="322" cx="927" cy="602.5" r="3"/>
+        <circle id="dt25" data-value="323" cx="969" cy="600" r="3"/>
+        <circle id="dt27" data-value="325" cx="1046" cy="600" r="3"/>
+        <circle id="dt28" data-value="326" cx="1089" cy="600" r="3"/>
+        <circle id="dt29" data-value="327" cx="1129" cy="600" r="3"/>
+        <circle id="dt30" data-value="328" cx="1172.5" cy="600" r="3"/>
+        <circle id="dt31" data-value="329" cx="1211" cy="600" r="3"/>
+        <circle id="dt33" data-value="331" cx="1286" cy="632" r="3"/>
+        <circle id="dt34" data-value="332" cx="1286" cy="667" r="3"/>
       </g>
     </a>
     <a xlink:href="#te" fill="#ffffff">
       <g id="stns_te" stroke="#784008">
-          <circle id="te1" cx="496" cy="34" r="3"/>
-          <circle id="te3" cx="579" cy="117" r="3"/>
+          <circle id="te1" data-value="401" cx="496" cy="34" r="3"/>
+          <circle id="te3" data-value="403" cx="579" cy="117" r="3"/>
+          <circle id="te4" data-value="404" cx="624" cy="161.8" r="3"/>
+          <circle id="te5" data-value="405" cx="658" cy="208" r="3"/>
+          <circle id="te6" data-value="406" cx="658" cy="247" r="3"/>
+          <circle id="te7" data-value="407" cx="658" cy="309.5" r="3"/>
+          <circle id="te8" data-value="408" cx="658" cy="357" r="3"/>
       </g>
     </a>
     <a xlink:href= "#ints" fill="#ffffff">
       <g id="stns_ints" stroke="#000000" stroke-width="3">
-        <circle id="ns24/ne6/cc1" cx="760.2" cy="689" r="5.7"/>
-        <circle id="ns27/ce2" cx="793" cy="913.3" r="5.7"/>
-        <circle id="dt16/ce1" cx="887" cy="871" r="5.7"/>
-        <circle id="dt15/cc4" cx="941.3" cy="821" r="5.7"/>
-        <circle id="ew8/cc9" cx="1004" cy="659" r="5.7"/>
-        <circle id="cc10/dt26" cx="1000" cy="600" r="5.7"/>
-        <circle id="ne12/cc13" cx="923" cy="463.2" r="5.7"/>
-        <circle id="ns17/cc15" cx="786" cy="394" r="5.7"/>
-        <circle id="cc19/dt9" cx="548" cy="471.5" r="5.7"/>
-        <circle id="ew21/cc22" cx="481" cy="599" r="5.7"/>
-        <circle id="ne1/cc29" cx="581" cy="866" r="5.7"/>
-        <circle id="cg1/dt35" cx="1286" cy="694" r="5.7"/>
-        <circle id="ew2/dt32" cx="1245" cy="600.5" r="5.7"/>
-        <circle id="ew4/cg" cx="1227" cy="659" r="5.7"/>
-        <circle id="ew12/dt14" cx="899" cy="726" r="5.7"/>
-        <circle id="ew13/ns25" cx="830.3" cy="790" r="5.7"/>
-        <circle id="ew14/ns26" cx="799" cy="822" r="5.7"/>
-        <circle id="ew16/ne3" cx="657" cy="790.5" r="5.7"/>
-        <circle id="ns1/ew24" cx="286" cy="514" r="5.7"/>
-        <circle id="ne4/dt19" cx="693.5" cy="754" r="5.7"/>
-        <circle id="ne7/dt12" cx="780" cy="606.5" r="5.7"/>
-        <circle id="ne16/stc" cx="1080.7" cy="305.3" r="5.7"/>
-        <circle id="ne17/ptc" cx="1177" cy="209.5" r="5.7"/>
-        <circle id="ns4/bp1" cx="286" cy="225.5" r="5.7"/>
-        <circle id="ns21" cx="705" cy="532" r="5.7"/>
-        <circle id="dt11" cx="720" cy="547" r="5.7"/>
-        <circle id="bp6" cx="479" cy="225.5" r="5.7"/>
-        <circle id="dt1" cx="479" cy="242" r="5.7"/>
-        <circle id="ns9/te2" cx="529" cy="67" r="5.7"/>
+        <circle id="ns24/ne6/cc1" data-value="10" cx="760.2" cy="689" r="5.7"/>
+        <circle id="ns27/ce2" data-value="13" cx="793" cy="913.3" r="5.7"/>
+        <circle id="ce1/dt16" data-value="229" cx="887" cy="871" r="5.7"/>
+        <circle id="cc4/dt15" data-value="213" cx="941.3" cy="821" r="5.7"/>
+        <circle id="cc17/te9" data-value="216" cx="658" cy="402.8" r="5.7"/>
+        <circle id="ew8/cc9" data-value="35" cx="1004" cy="659" r="5.7"/>
+        <circle id="cc10/dt26" data-value="207" cx="1000" cy="600" r="5.7"/>
+        <circle id="ne12/cc13" data-value="106" cx="923" cy="463.2" r="5.7"/>
+        <circle id="ns17/cc15" data-value="3" cx="786" cy="394" r="5.7"/>
+        <circle id="cc19/dt9" data-value="217" cx="548" cy="471.5" r="5.7"/>
+        <circle id="ew21/cc22" data-value="20" cx="481" cy="599" r="5.7"/>
+        <circle id="ne1/cc29" data-value="116" cx="581" cy="866" r="5.7"/>
+        <circle id="cg1/dt35" data-value="63" cx="1286" cy="694" r="5.7"/>
+        <circle id="ew2/dt32" data-value="41" cx="1245" cy="600.5" r="5.7"/>
+        <circle id="ew4/cg" data-value="39" cx="1227" cy="659" r="5.7"/>
+        <circle id="ew12/dt14" data-value="31" cx="899" cy="726" r="5.7"/>
+        <circle id="ns25/ew13" data-value="11" cx="830.3" cy="790" r="5.7"/>
+        <circle id="ns26/ew14" data-value="12" cx="799" cy="822" r="5.7"/>
+        <circle id="ew16/ne3" data-value="15" cx="657" cy="790.5" r="5.7"/>
+        <circle id="ns1/ew24" data-value="24" cx="286" cy="514" r="5.7"/>
+        <circle id="ne4/dt19" data-value="114" cx="693.5" cy="754" r="5.7"/>
+        <circle id="ne7/dt12" data-value="111" cx="780" cy="606.5" r="5.7"/>
+        <circle id="ne16/stc" data-value="102" cx="1080.7" cy="305.3" r="5.7"/>
+        <circle id="ne17/ptc" data-value="101" cx="1177" cy="209.5" r="5.7"/>
+        <circle id="ns4/bp1" data-value="30" cx="286" cy="225.5" r="5.7"/>
+        <circle id="ns21/dt11" data-value="7" cx="705" cy="532" r="5.7"/>
+        <circle id="ns21/dt11" data-value="7" cx="720" cy="547" r="5.7"/>
+        <circle id="bp6/dt1" data-value="54" cx="479" cy="225.5" r="5.7"/>
+        <circle id="bp6/dt1" data-value="54" cx="479" cy="242" r="5.7"/>
+        <circle id="ns9/te2" data-value="45" cx="529" cy="67" r="5.7"/>
       </g>
     </a>
     <a xlink:href= "#bplrt" fill="#ffffff">
       <g id="stns_bplrt" stroke="#999999" stroke-width="1.7">
-        <circle id="bp2" cx="321" cy="226" r="2.6"/>
-        <circle id="bp3" cx="356" cy="226" r="2.6"/>
-        <circle id="bp4" cx="391" cy="226" r="2.6"/>
-        <circle id="bp5" cx="426" cy="226" r="2.6"/>
-        <circle id="bp7" cx="521" cy="245" r="2.6"/>
-        <circle id="bp8" cx="546" cy="259" r="2.6"/>
-        <circle id="bp9" cx="565" cy="248" r="2.6"/>
-        <circle id="bp10" cx="565" cy="226" r="2.6"/>
-        <circle id="bp11" cx="565" cy="204" r="2.6"/>
-        <circle id="bp12" cx="546" cy="192" r="2.6"/>
-        <circle id="bp13" cx="521" cy="206" r="2.6"/>
+        <circle id="bp2" data-value="50" cx="321" cy="226" r="2.6"/>
+        <circle id="bp3" data-value="51" cx="356" cy="226" r="2.6"/>
+        <circle id="bp4" data-value="52" cx="391" cy="226" r="2.6"/>
+        <circle id="bp5" data-value="53" cx="426" cy="226" r="2.6"/>
+        <circle id="bp7" data-value="55" cx="521" cy="245" r="2.6"/>
+        <circle id="bp8" data-value="56" cx="546" cy="259" r="2.6"/>
+        <circle id="bp9" data-value="57" cx="565" cy="248" r="2.6"/>
+        <circle id="bp10" data-value="58" cx="565" cy="226" r="2.6"/>
+        <circle id="bp11" data-value="59" cx="565" cy="204" r="2.6"/>
+        <circle id="bp12" data-value="60" cx="546" cy="192" r="2.6"/>
+        <circle id="bp13" data-value="61" cx="521" cy="206" r="2.6"/>
       </g>
     </a>
     <a xlink:href= "#sklrt" fill="#ffffff">
       <g id="stns_sklrt" stroke="#999999" stroke-width="1.7">
-        <circle id="se1" cx="1127" cy="321" r="2.6"/>
-        <circle id="se2" cx="1154" cy="339" r="2.6"/>
-        <circle id="se3" cx="1151" cy="372" r="2.6"/>
-        <circle id="se4" cx="1113" cy="377.3" r="2.6"/>
-        <circle id="se5" cx="1095.5" cy="348.5" r="2.6"/>
-        <circle id="sw1" cx="1066.5" cy="273.5" r="2.6"/>
-        <circle id="sw2" cx="1061.4" cy="247" r="2.6"/>
-        <circle id="sw3" cx="1044" cy="229" r="2.6"/>
-        <circle id="sw4" cx="1022" cy="229" r="2.6"/>
-        <circle id="sw5" cx="1002" cy="249" r="2.6"/>
-        <circle id="sw6" cx="1003.5" cy="269.5" r="2.6"/>
-        <circle id="sw7" cx="1018.7" cy="284.5" r="2.6"/>
-        <circle id="sw8" cx="1047" cy="291.5" r="2.6"/>
+        <circle id="se1" data-value="117" cx="1127" cy="321" r="2.6"/>
+        <circle id="se2" data-value="118" cx="1154" cy="339" r="2.6"/>
+        <circle id="se3" data-value="119" cx="1151" cy="372" r="2.6"/>
+        <circle id="se4" data-value="120" cx="1113" cy="377.3" r="2.6"/>
+        <circle id="se5" data-value="121" cx="1095.5" cy="348.5" r="2.6"/>
+        <circle id="sw1" data-value="122" cx="1066.5" cy="273.5" r="2.6"/>
+        <circle id="sw2" data-value="123" cx="1061.4" cy="247" r="2.6"/>
+        <circle id="sw3" data-value="124" cx="1044" cy="229" r="2.6"/>
+        <circle id="sw4" data-value="125" cx="1022" cy="229" r="2.6"/>
+        <circle id="sw5" data-value="126" cx="1002" cy="249" r="2.6"/>
+        <circle id="sw6" data-value="127" cx="1003.5" cy="269.5" r="2.6"/>
+        <circle id="sw7" data-value="128" cx="1018.7" cy="284.5" r="2.6"/>
+        <circle id="sw8" data-value="129" cx="1047" cy="291.5" r="2.6"/>
       </g>
     </a>
     <a xlink:href= "#pglrt" fill="#ffffff">
       <g id="stns_pglrt" stroke="#999999" stroke-width="1.7">
-        <circle id="pe1" cx="1191.7" cy="247.3" r="2.6"/>
-        <circle id="pe2" cx="1198" cy="270" r="2.6"/>
-        <circle id="pe3" cx="1215" cy="287" r="2.6"/>
-        <circle id="pe4" cx="1245" cy="277.7" r="2.6"/>
-        <circle id="pe5" cx="1254" cy="246.5" r="2.6"/>
-        <circle id="pe6" cx="1238" cy="230.5" r="2.6"/>
-        <circle id="pe7" cx="1214" cy="224" r="2.6"/>
-        <circle id="pw1" cx="1161" cy="177" r="2.6"/>
-        <circle id="pw3" cx="1139" cy="132" r="2.6"/>
-        <circle id="pw4" cx="1106" cy="144" r="2.6"/>
-        <circle id="pw5" cx="1098.5" cy="173" r="2.6"/>
-        <circle id="pw6" cx="1115.5" cy="190" r="2.6"/>
-        <circle id="pw7" cx="1141" cy="194.5" r="2.6"/>
+        <circle id="pe1" data-value="130" cx="1191.7" cy="247.3" r="2.6"/>
+        <circle id="pe2" data-value="131" cx="1198" cy="270" r="2.6"/>
+        <circle id="pe3" data-value="132" cx="1215" cy="287" r="2.6"/>
+        <circle id="pe4" data-value="133" cx="1245" cy="277.7" r="2.6"/>
+        <circle id="pe5" data-value="134" cx="1254" cy="246.5" r="2.6"/>
+        <circle id="pe6" data-value="135" cx="1238" cy="230.5" r="2.6"/>
+        <circle id="pe7" data-value="136" cx="1214" cy="224" r="2.6"/>
+        <circle id="pw1" data-value="137" cx="1161" cy="177" r="2.6"/>
+        <circle id="pw3" data-value="139" cx="1139" cy="132" r="2.6"/>
+        <circle id="pw4" data-value="140" cx="1106" cy="144" r="2.6"/>
+        <circle id="pw5" data-value="141" cx="1098.5" cy="173" r="2.6"/>
+        <circle id="pw6" data-value="143" cx="1115.5" cy="190" r="2.6"/>
+        <circle id="pw7" data-value="143" cx="1141" cy="194.5" r="2.6"/>
       </g>
     </a>
   </g>
@@ -312,11 +317,6 @@
       <circle id="cc32" cx="735" cy="919" r="3"/>
     </g>
     <g id="stns_te" stroke="#784008">
-      <circle id="te4" cx="624" cy="161.8" r="3"/>
-      <circle id="te5" cx="658" cy="208" r="3"/>
-      <circle id="te6" cx="658" cy="247" r="3"/>
-      <circle id="te7" cx="658" cy="309.5" r="3"/>
-      <circle id="te8" cx="658" cy="357" r="3"/>
       <circle id="te10" cx="658" cy="444" r="3"/>
       <circle id="te12" cx="658" cy="517" r="3"/>
       <circle id="te13" cx="658" cy="549" r="3"/>
@@ -526,20 +526,19 @@
      <text id="lbdt37b" x="1271" y="814" font-size="12">Bedok</text>
     </g>
     <g id="lbteex" fill="#000000">
-     <text id="lbte1a" x="506" y="29" font-size="12">Woodlands</text>
-     <text id="lbte1b" x="506" y="41" font-size="12">North</text>
-     <text id="lbte3a" x="586" y="109" font-size="12">Woodlands</text>
-     <text id="lbte3b" x="586" y="121" font-size="12">South</text>
-
+      <text id="lbte1a" x="506" y="29" font-size="12">Woodlands</text>
+      <text id="lbte1b" x="506" y="41" font-size="12">North</text>
+      <text id="lbte3a" x="586" y="109" font-size="12">Woodlands</text>
+      <text id="lbte3b" x="586" y="121" font-size="12">South</text>
+      <text id="lbte4" x="632" y="163" font-size="12">Springleaf</text>
+      <text id="lbte5" x="665" y="212" font-size="12">Lentor</text>
+      <text id="lbte6" x="665" y="250" font-size="12">Mayflower</text>
+      <text id="lbte7a" x="622" y="292" font-size="12">Bright</text>
+      <text id="lbte7b" x="637" y="304" font-size="12">Hill</text>
+      <text id="lbte8a" x="621" y="354" font-size="12">Upper</text>
+      <text id="lbte8b" x="604" y="366" font-size="12">Thomson</text>
     </g>
     <g id="lbteex" fill="#aaaaaa">
-     <text id="lbte4" x="632" y="163" font-size="12">Springleaf</text>
-     <text id="lbte5" x="665" y="212" font-size="12">Lentor</text>
-     <text id="lbte6" x="665" y="250" font-size="12">Mayflower</text>
-     <text id="lbte7a" x="622" y="292" font-size="12">Bright</text>
-     <text id="lbte7b" x="637" y="304" font-size="12">Hill</text>
-     <text id="lbte8a" x="621" y="354" font-size="12">Upper</text>
-     <text id="lbte8b" x="604" y="366" font-size="12">Thomson</text>
      <text id="lbte10a" x="665" y="442" font-size="12">Mount</text>
      <text id="lbte10b" x="665" y="454" font-size="12">Pleasant</text>
      <text id="lbte12" x="617" y="520" font-size="12">Napier</text>
