@@ -7,7 +7,7 @@
     <rect id="lgbox" height="295" width="333" x="0" y="810" fill="#f2f2f2"/>
     <g id="title">
      <text id="tttitle" x="10" y="837" font-size="20" font-weight="bold" fill="#001e0d" font-family="Arial">SINGAPORE MRT/LRT MAP</text>
-     <text id="ttupd" x="10" y="855" font-size="10" fill="#001e0d" font-family="Arial">Updated on 19 Jun 2018</text>
+     <text id="ttupd" x="10" y="855" font-size="10" fill="#001e0d" font-family="Arial">Updated on 2 Jun 2023</text>
     </g>
     <g id="lgcolorbox">
      <rect height="11.5" width="313" x="10" y="867.5" fill="#009645"/>
@@ -60,7 +60,8 @@
      <path d="m1286 695v90"/>
     </g>
     <g id="teex" stroke="#784008">
-     <path d="m496 34 l147.8 147.8 q14.14 14.14 14.14 34.14 v190"/>
+     <!-- <path d="m496 34 l147.8 147.8 q14.14 14.14 14.14 34.14 v190"/> -->
+     <path d="m496 34 l147.8 147.8 q14.14 14.14 14.14 34.14 v562 q0 20 14.14 34.14 l87 87 q14.14 14.14 34.14 14.14 h120"/>
     </g>
     <g id="teex" stroke="#784008" stroke-dasharray="8, 8">
      <path d="m496 34 l147.8 147.8 q14.14 14.14 14.14 34.14 v562 q0 20 14.14 34.14 l87 87 q14.14 14.14 34.14 14.14 h134 q20 0 34.14 -14.14 l99 -99 q14.14 -14.14 28.28 -14.14 h283 q20 0 20 -20 v-52 q0 -20 -20 -20 h-35"/>
@@ -139,7 +140,6 @@
         <circle id="ns18" data-value="4" cx="786" cy="428" r="3"/>
         <circle id="ns19" data-value="5" cx="770" cy="467" r="3"/>
         <circle id="ns20" data-value="6" cx="739" cy="498" r="3"/>
-        <circle id="ns22" data-value="8" cx="660" cy="586" r="3"/>
         <circle id="ns23" data-value="9" cx="702" cy="632" r="3"/>
         <circle id="ns28" data-value="68" cx="833" cy="955" r="3"/>
       </g>
@@ -186,7 +186,6 @@
         <circle id="dt6" data-value="310" cx="485" cy="406" r="3"/>
         <circle id="dt7" data-value="311" cx="502" cy="425" r="3"/>
         <circle id="dt8" data-value="312" cx="524" cy="447.5" r="3"/>
-        <circle id="dt10" data-value="314" cx="658" cy="486" r="3"/>
         <circle id="dt13" data-value="317" cx="818" cy="645" r="3"/>
         <circle id="dt17" data-value="303" cx="804" cy="866" r="3"/>
         <circle id="dt18" data-value="304" cx="742" cy="803" r="3"/>
@@ -214,12 +213,19 @@
           <circle id="te6" data-value="406" cx="658" cy="247" r="3"/>
           <circle id="te7" data-value="407" cx="658" cy="309.5" r="3"/>
           <circle id="te8" data-value="408" cx="658" cy="357" r="3"/>
+          <circle id="te12" cx="658" cy="517" r="3"/>
+          <circle id="te13" cx="658" cy="549" r="3"/>
+          <circle id="te15" cx="658" cy="648" r="3"/>
+          <circle id="te16" cx="658" cy="694" r="3"/>
+          <circle id="te18" cx="687" cy="826.4" r="3"/>
+          <circle id="te19" cx="741.7" cy="881" r="3"/>
+          <circle id="te22" cx="911" cy="913" r="3"/>
       </g>
     </a>
     <a xlink:href= "#ints" fill="#ffffff">
       <g id="stns_ints" stroke="#000000" stroke-width="3">
         <circle id="ns24/ne6/cc1" data-value="10" cx="760.2" cy="689" r="5.7"/>
-        <circle id="ns27/ce2" data-value="13" cx="793" cy="913.3" r="5.7"/>
+        <circle id="ns27/ce2/te20" data-value="13" cx="793" cy="913.3" r="5.7"/>
         <circle id="ce1/dt16" data-value="229" cx="887" cy="871" r="5.7"/>
         <circle id="cc4/dt15" data-value="213" cx="941.3" cy="821" r="5.7"/>
         <circle id="cc17/te9" data-value="216" cx="658" cy="402.8" r="5.7"/>
@@ -228,15 +234,17 @@
         <circle id="ne12/cc13" data-value="106" cx="923" cy="463.2" r="5.7"/>
         <circle id="ns17/cc15" data-value="3" cx="786" cy="394" r="5.7"/>
         <circle id="cc19/dt9" data-value="217" cx="548" cy="471.5" r="5.7"/>
+        <circle id="dt10/te11" data-value="314" cx="658" cy="486" r="5.7"/>
         <circle id="ew21/cc22" data-value="20" cx="481" cy="599" r="5.7"/>
         <circle id="ne1/cc29" data-value="116" cx="581" cy="866" r="5.7"/>
         <circle id="cg1/dt35" data-value="63" cx="1286" cy="694" r="5.7"/>
         <circle id="ew2/dt32" data-value="41" cx="1245" cy="600.5" r="5.7"/>
         <circle id="ew4/cg" data-value="39" cx="1227" cy="659" r="5.7"/>
         <circle id="ew12/dt14" data-value="31" cx="899" cy="726" r="5.7"/>
+        <circle id="ns22/te14" data-value="8" cx="660" cy="586" r="5.7"/>
         <circle id="ns25/ew13" data-value="11" cx="830.3" cy="790" r="5.7"/>
         <circle id="ns26/ew14" data-value="12" cx="799" cy="822" r="5.7"/>
-        <circle id="ew16/ne3" data-value="15" cx="657" cy="790.5" r="5.7"/>
+        <circle id="ew16/ne3/te17" data-value="15" cx="657" cy="790.5" r="5.7"/>
         <circle id="ns1/ew24" data-value="24" cx="286" cy="514" r="5.7"/>
         <circle id="ne4/dt19" data-value="114" cx="693.5" cy="754" r="5.7"/>
         <circle id="ne7/dt12" data-value="111" cx="780" cy="606.5" r="5.7"/>
@@ -318,14 +326,7 @@
     </g>
     <g id="stns_te" stroke="#784008">
       <circle id="te10" cx="658" cy="444" r="3"/>
-      <circle id="te12" cx="658" cy="517" r="3"/>
-      <circle id="te13" cx="658" cy="549" r="3"/>
-      <circle id="te15" cx="658" cy="648" r="3"/>
-      <circle id="te16" cx="658" cy="694" r="3"/>
-      <circle id="te18" cx="687" cy="826.4" r="3"/>
-      <circle id="te19" cx="741.7" cy="881" r="3"/>
       <circle id="te21" cx="846" cy="913" r="3"/>
-      <circle id="te22" cx="911" cy="913" r="3"/>
       <circle id="te23" cx="958" cy="903" r="3"/>
       <circle id="te24" cx="988" cy="873" r="3"/>
       <circle id="te25" cx="1024" cy="837" r="3"/>
@@ -537,23 +538,23 @@
       <text id="lbte7b" x="637" y="304" font-size="12">Hill</text>
       <text id="lbte8a" x="621" y="354" font-size="12">Upper</text>
       <text id="lbte8b" x="604" y="366" font-size="12">Thomson</text>
+      <text id="lbte12" x="617" y="520" font-size="12">Napier</text>
+      <text id="lbte13a" x="610" y="546" font-size="12">Orchard</text>
+      <text id="lbte13b" x="599" y="558" font-size="12">Boulevard</text>
+      <text id="lbte15a" x="622" y="647" font-size="12">Great</text>
+      <text id="lbte15b" x="621" y="659" font-size="12">World</text>
+      <text id="lbte16" x="603" y="697" font-size="12">Havelock</text>
+      <text id="lbte18" x="694" y="827" font-size="12">Maxwell</text>
+      <text id="lbte19a" x="694" y="890" font-size="12">Shenton</text>
+      <text id="lbte19b" x="716" y="902" font-size="12">Way</text>
+      <text id="lbte22a" x="889" y="928" font-size="12">Gardens</text>
+      <text id="lbte22b" x="883" y="940" font-size="12">by the Bay</text>
     </g>
     <g id="lbteex" fill="#aaaaaa">
      <text id="lbte10a" x="665" y="442" font-size="12">Mount</text>
      <text id="lbte10b" x="665" y="454" font-size="12">Pleasant</text>
-     <text id="lbte12" x="617" y="520" font-size="12">Napier</text>
-     <text id="lbte13a" x="610" y="546" font-size="12">Orchard</text>
-     <text id="lbte13b" x="599" y="558" font-size="12">Boulevard</text>
-     <text id="lbte15a" x="622" y="647" font-size="12">Great</text>
-     <text id="lbte15b" x="621" y="659" font-size="12">World</text>
-     <text id="lbte16" x="603" y="697" font-size="12">Havelock</text>
-     <text id="lbte18" x="694" y="827" font-size="12">Maxwell</text>
-     <text id="lbte19a" x="694" y="890" font-size="12">Shenton</text>
-     <text id="lbte19b" x="716" y="902" font-size="12">Way</text>
      <text id="lbte21a" x="828" y="928" font-size="12">Marina</text>
      <text id="lbte21b" x="830" y="940" font-size="12">South</text>
-     <text id="lbte22a" x="889" y="928" font-size="12">Gardens</text>
-     <text id="lbte22b" x="883" y="940" font-size="12">by the Bay</text>
      <text id="lbte23a" x="965" y="911" font-size="12">Tanjong</text>
      <text id="lbte23b" x="965" y="923" font-size="12">Rhu</text>
      <text id="lbte24" x="995" y="882" font-size="12">Katong Park</text>
